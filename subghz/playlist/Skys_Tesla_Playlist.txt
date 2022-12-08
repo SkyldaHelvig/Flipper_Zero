@@ -1,4 +1,5 @@
-# Example file only. Make sure your paths are correct!
+# github.com/SkyldaHelvig/Flipper_Zero
+# This is my attempt to combine the "Best port opener" and the OG openers in on playlist.
 #
 sub: /ext/subghz/Vehicles/Tesla/BEST_PORT_OPENER/315MHz_AM650_Better_Tesla_Charge_Port_Opener.sub
 sub: /ext/subghz/Vehicles/Tesla/BEST_PORT_OPENER/315MHz_AM270_Better_Tesla_Charge_Port_Opener.sub
