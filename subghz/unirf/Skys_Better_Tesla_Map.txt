@@ -1,0 +1,7 @@
+Filetype: Flipper SubGhz RAW File
+Version: 1
+UP: /any/subghz/Vehicles/Tesla/BEST_PORT_OPENER/315MHz_AM650_Better_Tesla_Charge_Port_Opener.sub
+DOWN: /any/subghz/Vehicles/Tesla/BEST_PORT_OPENER/315MHz_AM270_Better_Tesla_Charge_Port_Opener.sub
+LEFT: /any/subghz/Vehicles/Tesla/BEST_PORT_OPENER/433.92MHz_AM650_Better_Tesla_Charge_Port_Opener.sub
+RIGHT: /any/subghz/Vehicles/Tesla/BEST_PORT_OPENER/433.92MHz_AM270_Better_Tesla_Charge_Port_Opener.sub
+OK: /any/subghz/Vehicles/Tesla/BEST_PORT_OPENER/Tesla_Long_AM650.sub
