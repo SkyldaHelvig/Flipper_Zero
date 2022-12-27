@@ -21,3 +21,5 @@ Just copy over to your SD card, and reboot the flipper.
 You should find my remotes in SubGHZ Remote menu option.
 
 Playlists are found under Applications, Tools, SubGHZ Playlists.
+
+All the .git files, you can delete from yer dolphin fren.
