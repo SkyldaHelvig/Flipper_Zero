@@ -1,0 +1,37 @@
+# github.com/SkyldaHelvig/Flipper_Zero
+#
+# For teh lulz
+#
+# This is 100% THEORETICAL I HAVE NOT TESTED THIS
+#
+# My theory is if you can get the edit on a gas
+# sign, this will automate changing, then saving
+# the gas to be $4.20 at least top line. I think
+#
+# IT WILL TAKE A MINUTE TO RUN THROUGH
+#
+# If you make this work before me, find me on 
+# wherever. I have a pretty unique name.
+#
+# Don't forget to credit pls
+#
+sub: /ext/subghz/Gas_sign/Edit_mode.sub
+sub: /ext/subghz/Gas_sign/Up_gas.sub
+sub: /ext/subghz/Gas_sign/Up_gas.sub
+sub: /ext/subghz/Gas_sign/Up_gas.sub
+sub: /ext/subghz/Gas_sign/Up_gas.sub
+sub: /ext/subghz/Gas_sign/Right_gas.sub
+sub: /ext/subghz/Gas_sign/Up_gas.sub
+sub: /ext/subghz/Gas_sign/Up_gas.sub
+sub: /ext/subghz/Gas_sign/Right_gas.sub
+sub: /ext/subghz/Gas_sign/Up_gas.sub
+sub: /ext/subghz/Gas_sign/Up_gas.sub
+sub: /ext/subghz/Gas_sign/Up_gas.sub
+sub: /ext/subghz/Gas_sign/Up_gas.sub
+sub: /ext/subghz/Gas_sign/Up_gas.sub
+sub: /ext/subghz/Gas_sign/Up_gas.sub
+sub: /ext/subghz/Gas_sign/Up_gas.sub
+sub: /ext/subghz/Gas_sign/Up_gas.sub
+sub: /ext/subghz/Gas_sign/Up_gas.sub
+sub: /ext/subghz/Gas_sign/Up_gas.sub
+sub: /ext/subghz/Gas_sign/S_gas.sub
